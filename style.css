@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px;
+}
+.hidden {
+    display: none;
+}
